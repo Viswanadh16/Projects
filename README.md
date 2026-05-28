@@ -1,25 +1,75 @@
 # Embedded Systems & IoT Projects
 
-This repository contains Embedded Systems, IoT, Arduino, ESP32, Raspberry Pi, and Computer Vision–based projects developed during my Electronics and Communication Engineering undergraduate studies.
+This repository contains Embedded Systems, IoT, ESP32, Raspberry Pi, Arduino, and Computer Vision–based projects developed during my Electronics and Communication Engineering undergraduate studies.
 
-## Projects Included
+---
 
-* IoT-Based Smart Home Automation System using ESP32
-* Gesture-Controlled Appliance Automation System
-* Smart IoT Surveillance System for Women Safety
+# Projects Included
 
-## Technologies Used
+## 1. IoT-Based Smart Home Automation System using ESP32
 
-* Embedded C
-* Python
-* Arduino
+### Technologies Used
+
 * ESP32
+* RTC Module
+* Blynk IoT Platform
+* Arduino IDE
+
+### Features
+
+* Real-time appliance scheduling
+* Remote monitoring and control
+* IoT-based automation
+* Hardware–software integration
+
+---
+
+## 2. Gesture-Controlled Appliance Automation System
+
+### Technologies Used
+
+* OpenCV
+* Arduino
+* Python
+* Serial Communication
+
+### Features
+
+* Hand gesture recognition
+* Touchless appliance control
+* Real-time automation
+* Embedded system integration
+
+---
+
+## 3. Smart IoT Surveillance System for Women Safety
+
+### Technologies Used
+
 * Raspberry Pi
 * OpenCV
-* Blynk IoT Platform
-* Serial Communication
-* IoT Systems
+* Python
+* IoT Alert System
 
-## Objective
+### Features
 
-The objective of these projects is to develop practical embedded and IoT solutions involving hardware–software integration, automation, real-time monitoring, and smart system development.
+* Face recognition
+* Unauthorized person detection
+* Real-time alert notifications
+* Smart surveillance monitoring
+
+---
+
+# Technical Skills Demonstrated
+
+* Embedded Systems
+* IoT Development
+* ESP32 Programming
+* Raspberry Pi
+* Arduino
+* Sensor Interfacing
+* Hardware–Software Integration
+* Computer Vision
+* Automation Systems
+
+---
